@@ -1,8 +1,7 @@
 This is a Basic Java program
 <br>
-<<<<<<< HEAD
 This is Frist r2_index branch
-=======
+<br>
 changing to the master branch
 <br>
->>>>>>> master
+Hello, this is another stuff
